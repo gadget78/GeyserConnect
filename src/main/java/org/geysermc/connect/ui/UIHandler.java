@@ -216,7 +216,11 @@ public class UIHandler {
                 break;
 
             case 1:
-                player.setServerCategory(ServerCategory.GEYSER);
+                player.setServerCategory(ServerCategory.XRPL);
+                break;
+
+            case 2:
+                player.setServerCategory(ServerCategory.NFTWorlds);
                 break;
 
             default:
