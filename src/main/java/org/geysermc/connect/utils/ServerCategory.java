@@ -30,7 +30,8 @@ import lombok.Getter;
 @Getter
 public enum ServerCategory {
     OFFICIAL("Official"),
-    GEYSER("Geyser"),
+    XRPL("XRPL"),
+    NFTWorlds("NFTWorlds"),
     CUSTOM("Custom");
 
     private final String title;
