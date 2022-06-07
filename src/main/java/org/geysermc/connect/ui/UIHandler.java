@@ -52,7 +52,8 @@ public class UIHandler {
         SimpleForm.Builder window = SimpleForm.builder().title("Main Menu");
 
         window.button("Official Servers");
-        window.button("Geyser Servers");
+        window.button("XRPL Servers");
+        window.button("NFTWorlds Servers");
 
         // Add a buttons for custom servers
         if (MasterServer.getInstance().getGeyserConnectConfig().getCustomServers().isEnabled()) {
