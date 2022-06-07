@@ -158,5 +158,12 @@
                 </configuration>
             </plugin>
         </plugins>
+             <distributionManagement>
+                <repository>
+                  <id>github</id>
+                  <name>GitHub Gadget78 Apache Maven Packages</name>
+                  <url>https://maven.pkg.github.com/gadget78/GeyserConnect</url>
+                </repository>
+             </distributionManagement>
     </build>
 </project>
