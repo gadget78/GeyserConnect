@@ -227,10 +227,10 @@ public class UIHandler {
                 // If we have custom servers enabled there are a few extra buttons
                 if (MasterServer.getInstance().getGeyserConnectConfig().getCustomServers().isEnabled()) {
                     switch (data.getClickedButtonId()) {
-                        case 2:
+                        case 3:
                             player.setServerCategory(ServerCategory.CUSTOM);
                             break;
-                        case 3:
+                        case 4:
                             player.sendWindow(FormID.DIRECT_CONNECT, getDirectConnect());
                             return;
 
