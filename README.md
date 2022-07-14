@@ -10,7 +10,8 @@
 GeyserConnect is an easy way for Bedrock Edition clients to connect to any Java Edition servers without having to run anything.
 
 ## What is GeyserConnect?
-GeyserConnect is a server that Minecraft: Bedrock Edition clients can connect to that allows for a list of Minecraft: Java Edition servers to be displayed and accessed through 1 public Geyser instance. It is effectively a combination of [BedrockConnect](https://github.com/Pugmatt/BedrockConnect) and [Geyser](https://github.com/GeyserMC/Geyser).
+GeyserConnect is a server that Minecraft: Bedrock Edition clients can connect to that allows for a list of Minecraft: Java Edition servers to be displayed and accessed through 1 public Geyser instance.
+It is effectively a combination of [BedrockConnect](https://github.com/Pugmatt/BedrockConnect) and [Geyser](https://github.com/GeyserMC/Geyser).
 
 **Please note, this project is still a work in progress and should not be used on production. Expect bugs!**
 
